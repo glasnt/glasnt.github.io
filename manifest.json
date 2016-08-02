@@ -1,0 +1,7 @@
+{
+  "name": "glasnt.com",
+  "short_name": "glasnt.com",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#452768",
+}
