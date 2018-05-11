@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/glasnt_
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://glasnt.com
+  * I am glasnt_ (https://keybase.io/glasnt_) on keybase.
+  * I have a public key with fingerprint F026 9B50 5233 B0C9 8D1E  037C CA63 6DA6 7DA9 A6F6
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203248b7aa34a68eda92ca2fa6305624ad83f934f807dfe607d2349795e2b2e83d0a",
+      "fingerprint": "f0269b505233b0c98d1e037cca636da67da9a6f6",
+      "host": "keybase.io",
+      "key_id": "ca636da67da9a6f6",
+      "kid": "01014e09beb59a1978fc9ab0ac63338e6a4ce727854dffae70e820f69c89b9b110f50a",
+      "uid": "f3a24852344a1db605defe1b85ec0e00",
+      "username": "glasnt_"
+    },
+    "service": {
+      "hostname": "glasnt.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1526077149,
+  "expire_in": 157680000,
+  "prev": "b13c9ede2a425d26a8a9f1050d22bacc14dff9000272a1053dc4c20b903ca7b3",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMNrAnicbVJtUFRVGOZrUZnFsAkpE0YvWKBk5577vRPDMDmw0QeMGTMIsZ5777nL
+5WN33V2WVUBGpJAQaDAmtcQGDWX4yrISJgk2iDEYzI9QMVSgxqEZ0DKZUnG7y+SP
+Zjo/zpnzzvM87/M+8w6EBvqF+P8gFbaUtbbM+w/3Nxb5bZ1fOVFCiFZ5B2EoIfLx
+4oMLZOxwmvJVmTAQgISAgjQvcghRNGJ5LCMBSggqiKUAw0IayTylCBSt8ICTFcxq
+N6RogRMYDEWIeUoGiIgnFNVixnabXbU4NVkFQFYQGcBAihKBJPAyiQHFSZKmysqI
+5bQuiFVYjZhrdfgYmjkROfBG1arVtI9p0d7/4B/7BiSNgSBikREQKXC8IglIBEhi
+KYriMYtoCXOQ4xlaVhSEOYB5CBRWkHhBFESSBAqz6LtoUU6hkBaC5pamESmLLGBk
+rGBS5BksAQyAD+jAdgsqxBraXIAcFqeJKIsntKJLlbAvV98g/wFslKyFGtFmtzqt
+krVAq+c6nTaHwcdz7rD5gMVYNP0rYRJVi6yFqDFc2O5QrRbCQGpIyan6NEkGatFz
+JC3EE9htU+3YpPoQDMfyQDu+PtilSYokJQlYxhDRkJEhi3gkKCRggAyhiCSJ9AUi
+aAzIQaTVKVmiJQhEAVAS4kSK8A213WIlDBBqPpFZ03SoZgtyFtkxUebpzw7y8w/x
+C9YF+LbLL2RZ2OOdO1jxxKPEwbuje/QDpg0FH0WF1ul1Q3EN06tdB8cTtnWVdXri
+JlKp6rbBmYSx+V+I6SzzyOq1tzYnL5sbe3XzmfGHk9vWvrscSfrJ3fVjS8br41oH
+UvuOeIO6y0em7rTvSfs+7e7SyvKrjRXLH6BNLy5NMbYfes6z5cBxMWO/u/LDHuBu
+e8Xz1JUvGosDx/m42pXrulYZu7Nhp25L7vWZ8oScE19SvEt/f7s18NppXcRgZurU
+b1FTrZE111KyRs8lpRCCdxbmPJkVfmw6YpVywDEyIetLT7224dj6obn4iyfnvft2
+HW5ayPmsO/pccKZ9X5/4aUlaZcd7PS1nO2Yjvvrc2HTvIdmbWvTAlgGN50Htpv2X
+h+srM/ObGxzfvBD1/qU8973SNWx0xbM/Geo+PmGJ3OV5yVplvH/V5Y2tuVEXuoRr
+nGuqPFqcbeDXN8DDGdHfHhqNDV8R+qcYm1w894ZM1BO9xvK1tYPVVcqtpFn9mYz+
+2xc874Dmqr0R3iDzo+SwnXmBneHpFU8n3UxOaD7bcIP+Q+14+ffLb+qqXGF53/2c
+MgaT2L/yuobtNZEBMz+mT4bExcC3Yn7tde1MKbu9zr7mzhH3gu6UKr8dHHMy6BLq
+GBCae+peR3vJFecnhmB1aZvL+/zCBc/X148mUjeV9mBr0e4rWwP6Ek/PXZw0PSP8
+fTz8g/RP3Fn/AEIywkg=
+=RJ1C
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/glasnt_
+
+==================================================================
+
