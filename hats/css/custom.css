@@ -10,6 +10,7 @@
     margin-top: 18rem; }
 }
 
+.nolink, .nolink:hover { color: black}
 
 .hat img { 
  height: 85px; 
